@@ -1,0 +1,28 @@
+# --- 操作系统 / 编辑器 ---
+.idea/
+.DS_Store
+Thumbs.db
+*.iml
+
+# --- 本地环境与密钥（仅提交 .env.example 模板） ---
+.env
+.env.*
+!.env.example
+
+# --- 构建产物 ---
+server/target/
+client/node_modules/
+client/dist/
+
+# --- 运行期数据与模型缓存（docker compose 挂载目录） ---
+mysql/data/
+mysql/logs/
+redis/data/
+qdrant/data/
+minio/data/
+paddleocr/data/
+rabbitmq/data/
+server/tessdata/
+
+# --- 本地工具配置（如 Command Code 的本地权限与偏好） ---
+.commandcode/
