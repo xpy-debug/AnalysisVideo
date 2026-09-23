@@ -1,8 +1,6 @@
 <div align="center">
   <h2>AnalysisVideo</h2>
-  
   <p>
-   
     <img src="https://img.shields.io/badge/Java-21-E76F00?style=flat-square" alt="Java 21">
     <img src="https://img.shields.io/badge/Spring%20Boot-3.5.9-6DB33F?style=flat-square" alt="Spring Boot 3.5.9">
     <img src="https://img.shields.io/badge/Vue-3-42B883?style=flat-square" alt="Vue 3">
@@ -15,12 +13,7 @@
 </div>
 
 <div align="center">
-
 面向音频视频内容理解和总结分析的 <strong>AI工作台</strong>。
-
-
-
-
 </div>
 
 ## 项目预览
